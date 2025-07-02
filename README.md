@@ -3,7 +3,7 @@
         <h2> Hello World! I'm Isa! 💛</h2> 
       </div>
       <div align="center">
-       <br> 👩‍💻 Developer Front‑end 👩‍💻 </br> 
+       <br> 👩‍💻 Developer 👩‍💻 </br> 
       </div>
       <div align="center">
         <h3> Studying about... </h3>
