@@ -13,7 +13,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JS"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  height="30" alt="MySQL" />
           
-      </div>
+ </div>
       <div align="center">
         <h3> About me </h3>
         👩‍🎓 Undergraduate in Sistemas de Informação<br/>
