@@ -30,13 +30,5 @@
        <a href="https://wa.me/5511985914954"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
       </div>
   </table>
-  <div align="center">
-        <h3>🥇 Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=isabarss&show_icons=true&theme=radical" height="160"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabarss&layout=normal&theme=radical" height="160"/>
-      </div>
-    <td width="50%" valign="top">
-      </div>
-    </td>
-  </tr>
+ 
 
